@@ -1,7 +1,6 @@
-# Minimal-React
-Minimal React + Redux starter kit for experiments.
+# React JS Boilerplate
+React + Redux starter kit
 
-[![Build Status](https://travis-ci.org/enkot/Minimal-React.svg?branch=master)](https://travis-ci.org/enkot/Minimal-React)
 
 It has bare minimum to start development:
 * React
@@ -9,26 +8,23 @@ It has bare minimum to start development:
 * Webpack
 * Babel and css loaders
 
-Example (from 'docs' directory): 
-https://enkot.github.io/Minimal-React/
-
-Read article on [Medium](https://codeburst.io/its-easy-setting-up-react-and-webpack-eb9ecaef5094).
-
 ## Installation
 Clone from repository:
 ```
-$ git clone https://github.com/enkot/Minimal-React.git
+$ git clone https://github.com/pranshu1992/react-redux-boilerplate
 ```
 Install dependencies:
-```js
-$ yarn // or 'npm install'
+```
+npm install
 ```
 
 ## Running
 Build files and start local server in watch mode:
-```js
-$ yarn start // or 'npm start'
 ```
-Open the web browser to `http://localhost:8080/` and you will see simple project management app (like Trello board): 
+npm start
+```
 
-![alt text](https://image.ibb.co/jrPv6k/Screen_Shot_2017_08_30_at_3_57_29_PM.png)
+## Author
+
+Pranshu Kumar   
+[@pk_pranshu](https://twitter.com/pk_pranshu)
